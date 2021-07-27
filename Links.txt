@@ -1,0 +1,7 @@
+Zero-Sum Subsets: https://github.com/dtquantumc/zeroSumSubset
+
+Online TSP solver: http://quantum-hub.herokuapp.com/app/tsp
+
+
+
+
