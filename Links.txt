@@ -2,6 +2,8 @@ Zero-Sum Subsets: https://github.com/dtquantumc/zeroSumSubset
 
 Online TSP solver: http://quantum-hub.herokuapp.com/app/tsp
 
+Simulator for Quantum Gates (for kids): https://scratch.mit.edu/projects/412175897/
+
 
 
 
